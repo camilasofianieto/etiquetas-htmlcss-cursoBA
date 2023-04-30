@@ -1,0 +1,42 @@
+#testimonios{
+    atributo:valor
+    ;
+    }
+a:hover{
+    atributo:valor
+    ;
+    }
+p{
+    atributo:valor;
+    }
+.destacados{
+    atributo:valor
+    ;
+    }
+
+p { background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+    width: auto;
+    color: black;
+    border: 0ch;
+    margin: auto;
+    padding: 0ch;
+    column-gap: normal;
+    column-count: auto;
+ }
+
+p { grid-template-columns: auto;
+    grid-template-rows: ; 
+    flex-direction: column-reverse;
+    flex-direction: column;
+    flex-direction: row-reverse;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+p { justify-content: end;
+    align-content: end;
+    align-items: center;
+}
